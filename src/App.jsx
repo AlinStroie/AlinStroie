@@ -8,7 +8,8 @@
  */
 
 import Header from "./components/Header";
-import Hero from "./components/Hero"
+import Hero from "./components/Hero";
+import About from "./components/About";
 
 const App = () => {
     
@@ -18,6 +19,7 @@ const App = () => {
 
         <main>
             <Hero />
+            <About />
         </main>
         </>
     )
