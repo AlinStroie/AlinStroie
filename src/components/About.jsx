@@ -2,11 +2,11 @@
 const aboutItems = [
     {
       label: 'Project done',
-      number: 45
+      number: 0
     },
     {
       label: 'Years of experience',
-      number: 10
+      number: 0
     }
   ];
 
@@ -43,12 +43,7 @@ const About = () => {
                             ))        
                         }
 
-                        <img 
-                        src="/images/logo.svg" 
-                        alt="Logo"
-                        width={30}
-                        height={30} 
-                        className="ml-auto md:w-[40px] md:h-[40px]" />
+                        
                     </div>
                 </div>
 
