@@ -19,7 +19,8 @@ const About = () => {
 
             <div className="container">
 
-                <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12">
+                <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12
+                reveal-up">
                     <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]">
                         Welcome! Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
                         Nunc a dolor pulvinar dolor aliquet euismod non ullamcorper lectus. 

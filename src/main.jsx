@@ -13,7 +13,8 @@ import { createRoot } from 'react-dom/client'
 /**
  * CSS Link
  */
-import './index.css'
+import './index.css';
+import 'lenis/dist/lenis.css'
 
 /**
  * Components
