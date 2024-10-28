@@ -8,28 +8,28 @@ import SkillCard from "./SkillCard";
 const skillItem = [
     {
       imgSrc: '/images/figma.svg',
-      label: 'Lorem Ipsum',
-      desc: 'Lorem Ipsum'
+      label: 'Figma',
+      desc: 'Design Tool'
     },
     {
       imgSrc: '/images/css3.svg',
-      label: 'Lorem Ipsum',
-      desc: 'Lorem Ipsum'
+      label: 'CSS',
+      desc: 'User interface'
     },
     {
       imgSrc: '/images/javascript.svg',
-      label: 'Lorem Ipsum',
-      desc: 'Lorem Ipsum'
+      label: 'JavaScript',
+      desc: 'Interaction'
     },
     {
       imgSrc: '/images/nodejs.svg',
-      label: 'Lorem Ipsum',
-      desc: 'Lorem Ipsum'
+      label: 'NodeJS',
+      desc: 'Web Server'
     },
     {
       imgSrc: '/images/expressjs.svg',
-      label: 'Lorem Ipsum',
-      desc: 'Lorem Ipsum'
+      label: 'ExpressJS',
+      desc: 'Node Framework'
     },
     {
       imgSrc: '/images/mongodb.svg',
@@ -38,13 +38,13 @@ const skillItem = [
     },
     {
       imgSrc: '/images/react.svg',
-      label: 'Lorem Ipsum',
-      desc: 'Lorem Ipsum'
+      label: 'React',
+      desc: 'Framework'
     },
     {
       imgSrc: '/images/tailwindcss.svg',
-      label: 'Lorem Ipsum',
-      desc: 'Lorem Ipsum'
+      label: 'Tailwind CSS',
+      desc: 'User Interface'
     },
   ];
 
