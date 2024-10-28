@@ -31,10 +31,6 @@ const sitemap = [
     {
       label: 'LinkedIn',
       href: 'https://www.linkedin.com/in/alin-stroie-38a500296/'
-    },
-    {
-      label: 'Instagram',
-      href: 'https://www.instagram.com'
     }
   ];
 
