@@ -68,13 +68,13 @@ const Contact = () => {
             </div>
 
             <form
-            action="" 
+            action="https://getform.io/f/bejjywwa" 
             method="POST"
-            className=""
+            className="xl:pl-10 2xl:pl-20 "
             >
 
-                        <div className="">
-                            <div className="">
+                        <div className="md:grid md:items-center md:grid-cols-2 md:gap-2">
+                            <div className="mb-4">
                                 <label 
                                 htmlFor="name" 
                                 className="label"
@@ -93,7 +93,7 @@ const Contact = () => {
                                 />
                             </div>
 
-                            <div className="">
+                            <div className="mb-4">
                                 <label 
                                 htmlFor="email" 
                                 className="label"
@@ -113,7 +113,7 @@ const Contact = () => {
                             </div>
                         </div>
 
-                        <div className="">
+                        <div className="mb-4">
                             <label 
                             htmlFor="message" 
                             className="label"
@@ -126,7 +126,7 @@ const Contact = () => {
                             id="message" 
                             placeholder="Hi!"
                             required
-                            className="text-field"
+                            className="text-field resize-y min-h-32 max-h-80"
                             >
 
                             </textarea>
@@ -134,7 +134,7 @@ const Contact = () => {
 
                         <button 
                         type="submit"
-                        className="btn btn-primary"
+                        className="btn btn-primary [&]:max-w-full w-full justify-center"
                         >
                             Submit
                         </button>
